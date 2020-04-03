@@ -1,0 +1,2 @@
+# transporter
+解决appsstore transporter上传的时候一直卡在正在验证问题
