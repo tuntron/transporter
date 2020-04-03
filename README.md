@@ -1,5 +1,5 @@
 # transporter
-解决appsstore transporter上传的时候一直卡在正在验证问题
+解决App Store transporter上传的时候一直卡在正在验证问题
 
 
 1. 拉取代码
