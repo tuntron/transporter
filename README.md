@@ -6,3 +6,4 @@
 2. 打开文件obr/2.0.0/repository.xml，搜索Simpsons 然后全部替换成你自己的电脑用户名
 3. 把com.apple.amp.itmstransporter文件夹 去 覆盖 /Users/xxx/Library/Caches 目录下的 相同的文件夹
 4. 再次运行transpoter 就可以上传了
+5. 注意,如果在后期使用再次出现这样的情况，请再次覆盖。
